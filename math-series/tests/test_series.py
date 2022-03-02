@@ -1,4 +1,4 @@
-from series import fibonacci, lucas, sum_series
+from math_series.series import fibonacci, lucas, sum_series
 
 # Fibonacci tests"
 # Expected Outcome
